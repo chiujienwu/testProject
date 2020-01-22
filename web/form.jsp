@@ -13,7 +13,7 @@
 <body>
     <form method = "get" action="hello">
         <input type = "text" value="Archaeopteryx" name="favDino">
-        <input type = "submit" value="Submt with GET">
+        <input type = "submit" value="Submit with GET">
 
     </form>
 </body>
